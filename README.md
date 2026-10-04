@@ -8,7 +8,7 @@ B.Sc. (Hons.) Computer Science at Keshav Mahavidyalaya, University of Delhi (202
 
 | Project | What it does | Result |
 |---|---|---|
-| [titan-valuation](https://github.com/Dakshcore/titan-valuation) | Titan Company valuation in Excel and Python, with a 10,000-run Monte Carlo, a tornado chart and the growth the price implies | ₹4,052 a share, 17% below the ₹4,884 close on 25 Sep 2026 |
+| [titan-valuation](https://github.com/Dakshcore/titan-valuation) | Titan Company free cash flow DCF and discounted-earnings model in Excel and Python, with a reverse DCF, a 10,000-run Monte Carlo and unit tests | FCFF DCF ₹2,131 and earnings model ₹4,058 a share, against the ₹4,515.70 close on 1 Oct 2026 |
 | [jewellery-peer-comps](https://github.com/Dakshcore/jewellery-peer-comps) | Trading comps for Titan against listed Indian jewellers, from Screener.in exports and NSE bhavcopy, with a football-field chart | Titan at 51.4x EV/EBITDA vs a 19.6x peer median |
 | [options-pricer](https://github.com/Dakshcore/options-pricer) | Black-Scholes and Greeks, binomial trees, Monte Carlo and implied volatility, tested against Hull | NIFTY smile from NSE: 11.2% IV at the forward, 19.2% for strikes 10% below |
 | [campaign-clipper](https://github.com/Dakshcore/campaign-clipper) | Turns long-form footage into vertical shorts and checks each clip against a campaign's rules before submission | yt-dlp, faster-whisper, ffmpeg |
